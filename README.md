@@ -6,6 +6,6 @@ Basically, this is "error-driven development" lessons, forked from [https://gith
 
 Each of my solutions can be found in appropriate `.rb` file:
 
-# [hello.rb](https://github.com/Pulitzier/learn_ruby/blob/my-solution/00_hello/hello.rb)
-# [temperature.rb](https://github.com/Pulitzier/learn_ruby/blob/master/01_temperature/temperature.rb)
-# [calculator.rb](https://github.com/Pulitzier/learn_ruby/blob/my-solution/02_calculator/calculator.rb)
+1) [hello.rb](https://github.com/Pulitzier/learn_ruby/blob/my-solution/00_hello/hello.rb)
+2) [temperature.rb](https://github.com/Pulitzier/learn_ruby/blob/master/01_temperature/temperature.rb)
+3) [calculator.rb](https://github.com/Pulitzier/learn_ruby/blob/my-solution/02_calculator/calculator.rb)
