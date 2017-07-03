@@ -70,6 +70,8 @@ describe "#translate" do
   # * retain the punctuation from the original phrase
 
   it "translates capitalized" do
-    
+    s = translate("Big Brother is watching You")
+    expect(s).to eq("Igbay Otherbray isay atchingway Ouyay")
+  end
 
 end

@@ -20,7 +20,6 @@ def helper(str)
 	else
 		puts "Doesn`t match to any regexp"
 	end
-	# puts "helper #{str}"
 end
 
 def translate(w)
@@ -32,8 +31,6 @@ def translate(w)
 			i += 1
 		end until i >= arr.length
 		w = arr.join(" ")
-
-		
 	else
 		helper(w)
 	end 
