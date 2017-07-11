@@ -69,4 +69,9 @@ describe "#translate" do
   # * write a test asserting that capitalized words are still capitalized (but with a different initial capital letter, of course)
   # * retain the punctuation from the original phrase
 
+  it "translates capitalized" do
+    s = translate("Big Brother is watching You")
+    expect(s).to eq("Igbay Otherbray isay atchingway Ouyay")
+  end
+
 end
